@@ -1,0 +1,14 @@
+Commands in the terminal, within the directory photonal.
+
+Example:
+
+Normal speed:
+php run 80x24 apple.jpg
+
+Slow speed:
+php run 80x24 apple.jpg -s
+
+Explaining command:
+php run *terminal-size* *file-name* *-s(optional)*
+
+Require PHP and PHP-GD
